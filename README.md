@@ -1,3 +1,3 @@
-Graph Algorithms and Techniques.
+** Graph Algorithms and Techniques.
 
-Common problems of graphs
+Common problems of graphs.
